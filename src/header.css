@@ -1,0 +1,41 @@
+.pos
+{
+  position: fixed;
+ 
+}
+.div1{
+        /* font-family:Chaparral Pro Light; */
+        font-size: 25px;
+        padding-left: 40px;
+        color:red;
+      }
+      .left
+      {
+        padding-left: 28cm;
+      }
+      .host{
+         font-size: 18px;
+       
+        font-weight: 400;
+        /* font-family: Georgia; */
+      }
+      .host:hover
+      {
+        background-color:rgb(237, 238, 238);
+        -moz-border-radius: 13px; -webkit-border-radius: 13px; border-radius: 12px;
+      }
+      .icon
+      {
+        font-size: 20px;
+      }
+      .icon:hover
+      {
+        background-color:rgb(237, 238, 238);
+        -moz-border-radius: 12px; -webkit-border-radius: 12px; border-radius: 12px;
+      }
+.hr
+      {
+        margin-top: 0px;
+        font-size: medium;
+      }
+    
